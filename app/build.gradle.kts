@@ -9,6 +9,10 @@ android {
     namespace = "com.sunnyweather.android"
     compileSdk =35
 
+    buildFeatures {
+        viewBinding = true
+    }
+
     defaultConfig {
         applicationId = "com.sunnyweather.android"
         minSdk = 30
