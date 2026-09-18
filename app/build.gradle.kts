@@ -58,8 +58,8 @@ dependencies {
     implementation("androidx.recyclerview:recyclerview:1.4.0")
 
     // Lifecycle
-    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.11.0")
-    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.11.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.7")
+    implementation("androidx.lifecycle:lifecycle-livedata-ktx:2.8.7")
 
     // 下拉刷新
     implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.2.0")
